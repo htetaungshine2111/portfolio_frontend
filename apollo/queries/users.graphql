@@ -1,0 +1,8 @@
+query FetchUser {
+  users{
+    id
+    email
+    name
+    created_at
+  }
+}
